@@ -1,0 +1,301 @@
+Partie entre cerise et pomme
+Entrez une case i j
+1 0 0 
+0 0 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+0 2 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+0 2 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+1 2 0 
+--> Bravo Joueur cerise!!!
+scores du joueur cerise: tournoi 1.5, total 1.5
+scores du joueur pomme: tournoi 0, total 0
+
+Partie entre cerise et fraise
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 0 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 2 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 2 
+1 0 2 
+Entrez une case i j
+2 0 0 
+1 1 2 
+1 0 2 
+Entrez une case i j
+2 0 1 
+1 1 2 
+1 0 2 
+--> Bravo Joueur cerise!!!
+scores du joueur cerise: tournoi 2.625, total 2.625
+scores du joueur fraise: tournoi 0, total 0
+
+Partie entre pomme et fraise
+Entrez une case i j
+0 0 0 
+1 0 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+1 2 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 1 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 1 2 
+--> Bravo Joueur fraise!!!
+scores du joueur pomme: tournoi 0, total 0
+scores du joueur fraise: tournoi 1.5, total 1.5
+
+Le(s) gagnants du tournoi sont : 
+cerise
+avec le score 2.625
+
+Scores totaux des participants : 
+scores du joueur cerise: tournoi 2.625, total 2.625
+scores du joueur pomme: tournoi 0, total 0
+scores du joueur fraise: tournoi 1.5, total 1.5
+
+Nouveau Tournoi
+Partie entre cerise et fraise
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 2 
+Entrez une case i j
+0 0 0 
+0 1 1 
+0 0 2 
+Entrez une case i j
+0 0 0 
+2 1 1 
+0 0 2 
+Entrez une case i j
+0 0 0 
+2 1 1 
+1 0 2 
+Entrez une case i j
+0 0 2 
+2 1 1 
+1 0 2 
+Entrez une case i j
+0 0 2 
+2 1 1 
+1 1 2 
+Entrez une case i j
+0 2 2 
+2 1 1 
+1 1 2 
+Entrez une case i j
+1 2 2 
+2 1 1 
+1 1 2 
+--> Partie nulle
+scores du joueur cerise: tournoi 0, total 2.625
+scores du joueur fraise: tournoi 0, total 1.5
+
+Partie entre cerise et mangue
+Entrez une case i j
+1 0 0 
+0 0 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+0 2 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+0 0 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+0 2 0 
+Entrez une case i j
+1 0 0 
+1 2 0 
+1 2 0 
+--> Bravo Joueur cerise!!!
+scores du joueur cerise: tournoi 1.5, total 4.125
+scores du joueur mangue: tournoi 0, total 0
+
+Partie entre cerise et acai
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+0 1 0 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 0 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 2 
+0 0 2 
+Entrez une case i j
+0 0 0 
+1 1 2 
+1 0 2 
+Entrez une case i j
+2 0 0 
+1 1 2 
+1 0 2 
+Entrez une case i j
+2 0 1 
+1 1 2 
+1 0 2 
+--> Bravo Joueur cerise!!!
+scores du joueur cerise: tournoi 2.625, total 5.25
+scores du joueur acai: tournoi 0, total 0
+
+Partie entre fraise et mangue
+Entrez une case i j
+0 0 0 
+1 0 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+1 2 0 
+0 0 0 
+Entrez une case i j
+0 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 1 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 1 2 
+--> Bravo Joueur mangue!!!
+scores du joueur fraise: tournoi 0, total 1.5
+scores du joueur mangue: tournoi 1.5, total 1.5
+
+Partie entre fraise et acai
+Entrez une case i j
+0 0 0 
+0 0 0 
+0 1 0 
+Entrez une case i j
+0 0 0 
+0 2 0 
+0 1 0 
+Entrez une case i j
+0 0 0 
+0 2 0 
+1 1 0 
+Entrez une case i j
+0 0 0 
+0 2 0 
+1 1 2 
+Entrez une case i j
+0 1 0 
+0 2 0 
+1 1 2 
+Entrez une case i j
+2 1 0 
+0 2 0 
+1 1 2 
+--> Bravo Joueur acai!!!
+scores du joueur fraise: tournoi 0, total 1.5
+scores du joueur acai: tournoi 1.5, total 1.5
+
+Partie entre mangue et acai
+Entrez une case i j
+0 0 0 
+0 0 0 
+1 0 0 
+Entrez une case i j
+0 0 0 
+0 2 0 
+1 0 0 
+Entrez une case i j
+0 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 0 0 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 0 1 
+Entrez une case i j
+2 0 0 
+1 2 0 
+1 2 1 
+Entrez une case i j
+2 0 1 
+1 2 0 
+1 2 1 
+Entrez une case i j
+2 2 1 
+1 2 0 
+1 2 1 
+--> Bravo Joueur acai!!!
+scores du joueur mangue: tournoi 1.5, total 1.5
+scores du joueur acai: tournoi 2.625, total 2.625
+
+Le(s) gagnants du tournoi sont : 
+cerise
+acai
+avec le score 2.625
+
+Scores totaux des participants : 
+scores du joueur cerise: tournoi 2.625, total 5.25
+scores du joueur fraise: tournoi 0, total 1.5
+scores du joueur mangue: tournoi 1.5, total 1.5
+scores du joueur acai: tournoi 2.625, total 2.625
